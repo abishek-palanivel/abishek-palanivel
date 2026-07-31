@@ -1,7 +1,7 @@
 ﻿# ABISHEK PALANIVEL
 **Full Stack Developer | Problem Solver | Computer Science Student**
 
-📧 abishekpalanivel212@gmail.com | 🌐 [Portfolio](https://abishekp-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/abishek-palanivel) | 🏆 [LeetCode](https://leetcode.com/u/AbishekPalanivel/)
+📧 abishekpalanivel212@gmail.com | 🌐 [Portfolio](https://abishekp-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/abishek-palanivel) | 🏆 [LeetCode](https://leetcode.com/u/AbishekPalanivel/) | 📍 Tamil Nadu, India
 
 ---
 
