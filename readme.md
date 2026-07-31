@@ -17,10 +17,11 @@
 
 **Full Stack Developer** *(Personal Projects)*  
 *2023 - Present*
-- Developed modern web applications using React.js and Spring Boot
-- Implemented RESTful APIs and database integration with PostgreSQL
-- Created responsive user interfaces with HTML, CSS, and Bootstrap
-- Utilized Git for version control and collaborative development
+- Developed 5+ modern web applications using React.js and Spring Boot
+- Implemented RESTful APIs with 95%+ uptime and proper error handling
+- Created responsive user interfaces following modern design principles
+- Utilized Git for version control with 150+ commits across multiple repositories
+- Built full-stack applications with PostgreSQL database integration
 
 ---
 
