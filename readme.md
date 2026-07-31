@@ -9,7 +9,7 @@
 
 **Bachelor of Technology - Computer Science & Business Systems**  
 *V.S.B. Engineering College* | Expected Graduation: 2027  
-- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Software Engineering
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Software Engineering, Object-Oriented Programming
 
 ---
 
