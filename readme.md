@@ -26,11 +26,11 @@
 
 ## 🛠️ TECHNICAL SKILLS
 
-**Programming Languages:** Java, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** React.js, Spring Boot, Bootstrap  
-**Databases:** PostgreSQL  
-**Tools & Technologies:** Git, Postman, VS Code  
-**Development:** Full Stack Web Development, RESTful APIs, Database Design
+**Programming Languages:** Java, JavaScript, HTML, CSS, SQL  
+**Frameworks & Libraries:** React.js, Spring Boot, Bootstrap, Express.js  
+**Databases:** PostgreSQL, MySQL  
+**Tools & Technologies:** Git, Postman, VS Code, Docker  
+**Development:** Full Stack Web Development, RESTful APIs, Database Design, Microservices
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,bootstrap,postgres,git,postman,vscode&theme=dark" alt="Tech Stack" />
