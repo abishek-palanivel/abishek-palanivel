@@ -1,7 +1,7 @@
 ﻿# ABISHEK PALANIVEL
 **Full Stack Developer | Problem Solver | Computer Science Student**
 
-📧 abishekpalanivel212@gmail.com | 🌐 [Portfolio](https://abishekp-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/abishek-palanivel) | 🏆 [LeetCode](https://leetcode.com/u/AbishekPalanivel/) | 📍 Tamil Nadu, India
+📧 abishekpalanivel212@gmail.com | 🌐 [Portfolio](https://abishekp-portfolio.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/abishek-palanivel) | 🏆 [LeetCode](https://leetcode.com/u/AbishekPalanivel/)
 
 ---
 
@@ -9,7 +9,7 @@
 
 **Bachelor of Technology - Computer Science & Business Systems**  
 *V.S.B. Engineering College* | Expected Graduation: 2027  
-- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Software Engineering, Object-Oriented Programming
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Software Engineering
 
 ---
 
@@ -17,21 +17,20 @@
 
 **Full Stack Developer** *(Personal Projects)*  
 *2023 - Present*
-- Developed 5+ modern web applications using React.js and Spring Boot
-- Implemented RESTful APIs with 95%+ uptime and proper error handling
-- Created responsive user interfaces following modern design principles
-- Utilized Git for version control with 150+ commits across multiple repositories
-- Built full-stack applications with PostgreSQL database integration
+- Developed modern web applications using React.js and Spring Boot
+- Implemented RESTful APIs and database integration with PostgreSQL
+- Created responsive user interfaces with HTML, CSS, and Bootstrap
+- Utilized Git for version control and collaborative development
 
 ---
 
 ## 🛠️ TECHNICAL SKILLS
 
-**Programming Languages:** Java, JavaScript, HTML, CSS, SQL  
-**Frameworks & Libraries:** React.js, Spring Boot, Bootstrap, Express.js  
-**Databases:** PostgreSQL, MySQL  
-**Tools & Technologies:** Git, Postman, VS Code, Docker  
-**Development:** Full Stack Web Development, RESTful APIs, Database Design, Microservices
+**Programming Languages:** Java, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** React.js, Spring Boot, Bootstrap  
+**Databases:** PostgreSQL  
+**Tools & Technologies:** Git, Postman, VS Code  
+**Development:** Full Stack Web Development, RESTful APIs, Database Design
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,bootstrap,postgres,git,postman,vscode&theme=dark" alt="Tech Stack" />
@@ -46,16 +45,10 @@
 - Technologies: React.js, HTML, CSS, JavaScript
 - [Live Demo](https://abishekp-portfolio.netlify.app/)
 
-**E-Commerce Application** *(In Development)*
-- Developing full-stack e-commerce platform with modern architecture
-- Backend API development with Spring Boot and PostgreSQL
+**Spring Boot + React Applications**
+- Developing full-stack applications with modern architecture
+- Backend API development with Spring Boot
 - Frontend development with React.js and responsive design
-- Features: User authentication, product catalog, shopping cart
-
-**Task Management System**
-- Built complete CRUD application for task tracking
-- Technologies: Java, Spring Boot, MySQL
-- Features: User management, task organization, status tracking
 
 ---
 
@@ -70,11 +63,10 @@
 
 ## 🎯 CURRENT FOCUS
 
-- 🏗️ **Building real-world applications** with Spring Boot + React.js
-- 💪 **Solving 100+ problems** on LeetCode (Data Structures & Algorithms)
-- 🤝 **Contributing** to open-source projects and community
-- 📚 **Learning** microservices architecture & cloud technologies (AWS)
-- 🎯 **Preparing** for Java SE and AWS certifications
+- 🏗️ Building real-world applications with Spring Boot + React.js
+- 💪 Solving problems on LeetCode daily
+- 🤝 Contributing to open-source projects
+- 📚 Learning microservices & cloud technologies
 
 ---
 
