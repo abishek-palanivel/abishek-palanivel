@@ -69,10 +69,11 @@
 
 ## 🎯 CURRENT FOCUS
 
-- 🏗️ Building real-world applications with Spring Boot + React.js
-- 💪 Solving problems on LeetCode daily
-- 🤝 Contributing to open-source projects
-- 📚 Learning microservices & cloud technologies
+- 🏗️ **Building real-world applications** with Spring Boot + React.js
+- 💪 **Solving 100+ problems** on LeetCode (Data Structures & Algorithms)
+- 🤝 **Contributing** to open-source projects and community
+- 📚 **Learning** microservices architecture & cloud technologies (AWS)
+- 🎯 **Preparing** for Java SE and AWS certifications
 
 ---
 
