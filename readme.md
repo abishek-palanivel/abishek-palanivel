@@ -45,10 +45,16 @@
 - Technologies: React.js, HTML, CSS, JavaScript
 - [Live Demo](https://abishekp-portfolio.netlify.app/)
 
-**Spring Boot + React Applications**
-- Developing full-stack applications with modern architecture
-- Backend API development with Spring Boot
+**E-Commerce Application** *(In Development)*
+- Developing full-stack e-commerce platform with modern architecture
+- Backend API development with Spring Boot and PostgreSQL
 - Frontend development with React.js and responsive design
+- Features: User authentication, product catalog, shopping cart
+
+**Task Management System**
+- Built complete CRUD application for task tracking
+- Technologies: Java, Spring Boot, MySQL
+- Features: User management, task organization, status tracking
 
 ---
 
